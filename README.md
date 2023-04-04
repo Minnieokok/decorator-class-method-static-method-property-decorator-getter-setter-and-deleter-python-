@@ -1,0 +1,1 @@
+# decorator-class-method-static-method-property-decorator-getter-setter-and-deleter-python-
